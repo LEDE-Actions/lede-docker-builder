@@ -3,7 +3,7 @@
 ### clone docker and build image
 
 ```
-git clone https://github.com/hanxi/lede-docker-builder.git
+git clone https://github.com/g0g001/lede-docker-builder.git
 cd lede-docker-builder
 docker build -t lede - < Dockerfile
 ```
